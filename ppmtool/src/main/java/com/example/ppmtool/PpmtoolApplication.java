@@ -1,4 +1,4 @@
-package io.mostafa.ppmtool;
+package com.example.ppmtool;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
